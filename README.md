@@ -24,7 +24,8 @@
 - Empirical Software Engineering/burnout detection research  
 
 ⚡ **Fun fact**  
-I once turned a GitHub commit graph into a burnout detector - and I think my playlists have better version control than my code. 😄
+Once spent an hour fixing a bug that was just a missing semicolon - peak character development.
+
 
 
 ## Connect with Me  
