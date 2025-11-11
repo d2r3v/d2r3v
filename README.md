@@ -84,7 +84,7 @@ Once spent an hour fixing a bug that was just a missing semicolon - peak charact
 <h3 align="center"> Dev Philosophy</h3>
 
 <div align="center">
-  <em>"Every system has a personality - code just reveals it."</em><br>
+  <em>"I tried to quantify burnout with data - turns out, I just built a mirror."</em><br>
   <strong>- Dhruv Bhardwaj</strong>
 </div>
 
