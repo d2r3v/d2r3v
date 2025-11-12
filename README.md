@@ -90,5 +90,11 @@ Once spent an hour fixing a bug that was just a missing semicolon - peak charact
 
 ---
 
+<!-- <span align="center">
+  <img src="https://komarev.com/ghpvc/?username=d2r3v&label=Profile%20views&color=0e75b6&style=flat" alt="d2r3v" />
+</span> -->
 
-[![](https://visitcount.itsvg.in/api?id=d2r3v&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  <img src="https://komarev.com/ghpvc/?username=d2r3v" width="0" height="0" alt="invisible counter" />
+
+
