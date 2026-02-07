@@ -60,8 +60,7 @@ Developer at UBC’s Visualization & Emerging Media Studio, contributing to:
 ---
 
 ### ⚡ Fun Fact
-Once spent an hour fixing a bug that was just a missing semicolon.  
-I now trust nothing.
+Once spent an hour fixing a bug that was just a missing semicolon. I now trust nothing.
 
 
 
