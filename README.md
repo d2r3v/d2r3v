@@ -1,69 +1,76 @@
 ## 👋 Hi, I'm Dhruv Bhardwaj  
-**Software Engineer · Systems & ML · Developer @ UBC VEMS**
+**Software Engineer · Systems & ML · UBC VEMS**
 
 ---
 
-### About Me
+### 🚀 What I Do
 
-I’m a software engineering student interested in building **reliable, interpretable systems** from backend services and developer analytics to interactive AR interfaces.
+I build **backend systems, ML pipelines, and interactive XR applications** that are designed to work under real-world constraints.
 
-My work usually sits at the intersection of:
-- empirical software engineering  
-- backend & systems design  
-- human-centered computing (HCI / AR)
+My work focuses on:
+- **Distributed systems & backend architecture**
+- **Applied machine learning (vision + NLP)**
+- **XR/AR interaction systems**
 
-I care less about flashy demos and more about **how systems behave under real constraints**.
-
----
-
-### 🔭 Current & Ongoing Work
-
-**GitHub Process & Developer Behavior Analysis**  
-Research-driven project analyzing GitHub commit, PR, and review data to study:
-- developer contribution and collaboration patterns  
-- anomalous or irregular activity signals  
-- structural characteristics of software development workflows  
-
-Built using the GitHub API, statistical analysis, and ML-based techniques, with a focus on **reproducibility and meaningful engineering signals** rather than black-box prediction.
+I care about **latency, reliability, and correctness** over flashy demos.
 
 ---
 
-**AR Interaction & Spatial Anchoring Research**  
-Actively working on experimental AR interaction systems focused on:
-- spatial anchoring and stability of virtual interfaces  
-- interaction techniques under user motion and viewpoint changes  
-- system behavior in real-world, non-ideal conditions  
+### 🔭 Selected Work
+
+**🔹 Exam Generation & Analysis System (Backend Lead)**  
+- Built a **microservice-based backend** (Node.js, tRPC, Prisma, PostgreSQL)  
+- Processes **1000+ student submissions per exam cycle** with automated grading  
+- Designed **snapshot-based grading system** for reproducibility and auditability  
+- Implemented **RBAC + PostgreSQL RLS** for multi-tenant security  
+- Developed **cheating detection and analytics pipelines**
 
 ---
 
-**UBC Visualization & Emerging Media Studio (VEMS)**  
-Developer at UBC’s Visualization & Emerging Media Studio, contributing to:
-- modular Unity-based pipelines for real-time scientific visualization  
-- interaction systems designed for robustness and maintainability  
-- AR/3D interfaces tested with real users  
-
+**🔹 PillCare – Multi-Modal ML System**  
+- Built a **vision + OCR pipeline** (MobileNetV2 + CRNN) for pill identification  
+- Designed **modality fusion system** to handle ambiguous inputs  
+- Integrated **OpenFDA APIs** for real-time drug metadata  
 
 ---
 
-### 🌱 Currently Focusing On
-- backend architecture and scalability  
-- systems reliability, testing, and API design  
-- research-oriented engineering workflows  
+**🔹 Companion – LLM-Based Support System**  
+- Designed a **multi-stage LLM pipeline** with routing, safety classification, and fallback logic  
+- Built a **persistent memory system** for context-aware multi-turn interactions  
+- Implemented **risk-aware response handling** for safe and reliable outputs  
 
 ---
 
-### 💬 Ask Me About
-- Node.js backend & microservice architectures  
-- developer analytics and empirical software engineering  
-- Unity-based AR interaction systems and UX tradeoffs  
+**🔹 XR Systems @ UBC VEMS**  
+- Built **real-time distributed systems** for multi-user scientific visualization  
+- Achieved **<80 ms interaction latency** using optimized WebSocket pipelines  
+- Developed systems used in **live classroom environments (100+ users)**  
 
 ---
 
-### ⚡ Fun Fact
-Once spent an hour fixing a bug that was just a missing semicolon. I now trust nothing.
+### 🧠 Current Work
 
+- **Developer Behavior Analysis (GitHub Data)**  
+  Analyzing commits, PRs, and reviews to study collaboration patterns and detect anomalies  
 
+- **AR Interaction Research**  
+  Exploring spatial anchoring and interaction stability in non-ideal real-world conditions  
 
+---
+
+### ⚙️ Tech Stack
+
+**Languages:** Java, Python, TypeScript, C#, SQL  
+**Backend:** Node.js, tRPC, REST APIs, Prisma, FastAPI, WebSockets  
+**Systems:** Distributed Systems, Microservices, Data Pipelines  
+**Data:** PostgreSQL, ETL, Query Optimization  
+**Tools:** Docker, CI/CD, Linux, Git  
+
+---
+
+### ⚡ Fun Fact  
+Once spent an hour debugging a system issue that turned out to be a missing semicolon.  
+The system was fine. I was not.
 ## Tech Stack  
 
 **Primary**
