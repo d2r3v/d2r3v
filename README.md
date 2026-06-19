@@ -124,4 +124,5 @@ The system was fine. I was not.
 </span> -->
 
 
-  <img src="https://komarev.com/ghpvc/?username=d2r3v" width="0" height="0" alt="invisible counter" />
+<!--  <img src="https://komarev.com/ghpvc/?username=d2r3v" width="0" height="0" alt="invisible counter" /> --> 
+
