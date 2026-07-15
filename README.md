@@ -1,6 +1,6 @@
 # Hi, I'm Dhruv Bhardwaj
  
-**Software Engineer · Backend & Systems** — Backend Engineer @ Astin Analytics · Vancouver, BC
+**Software Engineer · Backend & Systems** - Backend Engineer @ Astin Analytics · Vancouver, BC
  
 I build backend systems, retrieval infrastructure, and ML pipelines designed to work under real-world constraints. I care about **latency, reliability, and correctness** over flashy demos.
  
@@ -10,11 +10,11 @@ I build backend systems, retrieval infrastructure, and ML pipelines designed to 
  
 ### 🔨 Building Now
  
-**[spelunk](https://github.com/d2r3v/spelunk)** — Hybrid semantic code retrieval engine in **Rust**
+**[spelunk](https://github.com/d2r3v/spelunk)** - Hybrid semantic code retrieval engine in **Rust**
 Combines lexical and embedding-based search to retrieve code by *meaning*, not just keywords. Built for speed on large repos.
  
-**[spelunk-bench](https://github.com/d2r3v/spelunk-bench)** — Benchmark harness for code retrieval tools
-Reproducible evaluation of retrieval quality across tools — because "it feels better" isn't a metric.
+**[spelunk-bench](https://github.com/d2r3v/spelunk-bench)** - Benchmark harness for code retrieval tools
+Reproducible evaluation of retrieval quality across tools - because "it feels better" isn't a metric.
  
 At **Astin Analytics**, I work on backend re-architecture and RAG pipeline security.
  
@@ -34,7 +34,7 @@ At **Astin Analytics**, I work on backend re-architecture and RAG pipeline secur
 - Deployed in live classroom sessions with **150+ students**
 
   
-**[PillCare](https://github.com/d2r3v/PillCare)** — Multi-modal ML pill identification
+**[PillCare](https://github.com/d2r3v/PillCare)** - Multi-modal ML pill identification
 - Vision + OCR pipeline (MobileNetV2 + CRNN) with modality fusion for ambiguous inputs
 - OpenFDA integration for real-time drug metadata
 ---
@@ -53,7 +53,7 @@ At **Astin Analytics**, I work on backend re-architecture and RAG pipeline secur
 --- -->
  
 <div align="center">
-  <em>"I tried to quantify burnout with data — turns out, I just built a mirror."</em>
+  <em>"I tried to quantify burnout with data - turns out, I just built a mirror."</em>
 </div>
  
 
